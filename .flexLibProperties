@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="org.flashmonkey.connections.api.IConnectionNode"/>
+    <classEntry path="org.flashmonkey.connections.api.IConnectionTarget"/>
+    <classEntry path="org.flashmonkey.connections.api.IConnectionSource"/>
+    <classEntry path="org.flashmonkey.connections.api.IConnectionsManager"/>
+    <classEntry path="org.flashmonkey.connections.view.ComponentActionMediator"/>
+    <classEntry path="org.flashmonkey.connections.view.TargetActionMediator"/>
+    <classEntry path="org.flashmonkey.connections.view.SourceActionMediator"/>
+    <classEntry path="org.flashmonkey.connections.events.ConnectionEvent"/>
+    <classEntry path="org.flashmonkey.connections.impl.ConnectionsManager"/>
+    <classEntry path="org.flashmonkey.connections.impl.ConnectionSource"/>
+    <classEntry path="org.flashmonkey.connections.impl.ConnectionNode"/>
+    <classEntry path="org.flashmonkey.connections.impl.ConnectionTarget"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

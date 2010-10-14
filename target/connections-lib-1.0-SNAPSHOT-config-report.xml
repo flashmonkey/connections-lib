@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+	<compiler>
+		<accessible>false</accessible>
+		<actionscript-file-encoding>UTF-8</actionscript-file-encoding>
+		<allow-source-path-overlap>false</allow-source-path-overlap>
+		<as3>true</as3>
+		<debug>true</debug>
+		<define>
+			<name>CONFIG::debug</name>
+			<value>true</value>
+		</define>
+		<es>false</es>
+		<extensions />
+		<external-library-path>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\playerglobal\4.0.0.14159\10.0\playerglobal.swc</path-element>
+		</external-library-path>
+		<fonts>
+			<advanced-anti-aliasing>true</advanced-anti-aliasing>
+			<languages />
+			<local-fonts-snapshot>c:\projects\connections-lib\target\classes\fonts.ser</local-fonts-snapshot>
+			<managers>
+				<manager-class>flash.fonts.JREFontManager</manager-class>
+				<manager-class>flash.fonts.BatikFontManager</manager-class>
+				<manager-class>flash.fonts.AFEFontManager</manager-class>
+				<manager-class>flash.fonts.CFFFontManager</manager-class>
+			</managers>
+			<max-cached-fonts>20</max-cached-fonts>
+			<max-glyphs-per-face>1000</max-glyphs-per-face>
+		</fonts>
+		<headless-server>false</headless-server>
+		<keep-all-type-selectors>false</keep-all-type-selectors>
+		<keep-generated-actionscript>false</keep-generated-actionscript>
+		<library-path>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\datavisualization\4.0.0.14159\datavisualization-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\flash-integration\4.0.0.14159\flash-integration-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\flex\4.0.0.14159\flex-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\framework\4.0.0.14159\framework-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\osmf\4.0.0.14159\osmf-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\rpc\4.0.0.14159\rpc-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\spark\4.0.0.14159\spark-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\sparkskins\4.0.0.14159\sparkskins-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\textLayout\4.0.0.14159\textLayout-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\com\adobe\flex\framework\utilities\4.0.0.14159\utilities-4.0.0.14159.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\flexunit\flexunit\0.90\flexunit-0.90.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\org\flashmonkey\collaboration-lib\1.0-SNAPSHOT\collaboration-lib-1.0-SNAPSHOT.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\org\flashmonkey\signal-binding\1.0-SNAPSHOT\signal-binding-1.0-SNAPSHOT.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\org\flashmonkey\operations-lib\1.0-SNAPSHOT\operations-lib-1.0-SNAPSHOT.swc</path-element>
+			<path-element>C:\Users\Trevor.Burton\.m2\repository\org\flashmonkey\actionscript-utils\1.0-SNAPSHOT\actionscript-utils-1.0-SNAPSHOT.swc</path-element>
+		</library-path>
+		<mxml />
+		<namespaces>
+			<namespace>
+				<uri>http://ns.adobe.com/mxml/2009</uri>
+				<manifest>c:\projects\connections-lib\target\classes\config-4.0.0.14159\mxml-2009-manifest.xml</manifest>
+			</namespace>
+			<namespace>
+				<uri>library://ns.adobe.com/flex/spark</uri>
+				<manifest>c:\projects\connections-lib\target\classes\config-4.0.0.14159\spark-manifest.xml</manifest>
+			</namespace>
+			<namespace>
+				<uri>library://ns.adobe.com/flex/mx</uri>
+				<manifest>c:\projects\connections-lib\target\classes\config-4.0.0.14159\mx-manifest.xml</manifest>
+			</namespace>
+			<namespace>
+				<uri>http://www.adobe.com/2006/mxml</uri>
+				<manifest>c:\projects\connections-lib\target\classes\config-4.0.0.14159\mxml-manifest.xml</manifest>
+			</namespace>
+		</namespaces>
+		<omit-trace-statements>true</omit-trace-statements>
+		<optimize>true</optimize>
+		<show-actionscript-warnings>true</show-actionscript-warnings>
+		<show-binding-warnings>true</show-binding-warnings>
+		<show-shadowed-device-font-warnings>true</show-shadowed-device-font-warnings>
+		<source-path>
+			<path-element>c:\projects\connections-lib\src\main\actionscript</path-element>
+		</source-path>
+		<strict>true</strict>
+		<theme>
+			<filename>c:\projects\connections-lib\target\classes\configs\themes\Spark\spark.css</filename>
+		</theme>
+		<use-resource-bundle-metadata>true</use-resource-bundle-metadata>
+		<verbose-stacktraces>false</verbose-stacktraces>
+		<locale />
+	</compiler>
+	<compute-digest>true</compute-digest>
+	<debug-password />
+	<default-background-color>8821927</default-background-color>
+	<default-frame-rate>24</default-frame-rate>
+	<default-script-limits>
+		<max-recursion-depth>1000</max-recursion-depth>
+		<max-execution-time>60</max-execution-time>
+	</default-script-limits>
+	<default-size>
+		<width>500</width>
+		<height>375</height>
+	</default-size>
+	<frames />
+	<framework>halo</framework>
+	<includes>
+		<symbol>org.flashmonkey.connections.api.IConnectionNode</symbol>
+		<symbol>org.flashmonkey.connections.api.IConnectionsManager</symbol>
+		<symbol>org.flashmonkey.connections.api.IConnectionSource</symbol>
+		<symbol>org.flashmonkey.connections.api.IConnectionTarget</symbol>
+		<symbol>org.flashmonkey.connections.events.ConnectionEvent</symbol>
+		<symbol>org.flashmonkey.connections.impl.ConnectionNode</symbol>
+		<symbol>org.flashmonkey.connections.impl.ConnectionsManager</symbol>
+		<symbol>org.flashmonkey.connections.impl.ConnectionSource</symbol>
+		<symbol>org.flashmonkey.connections.impl.ConnectionTarget</symbol>
+		<symbol>org.flashmonkey.connections.view.ComponentActionMediator</symbol>
+		<symbol>org.flashmonkey.connections.view.SourceActionMediator</symbol>
+		<symbol>org.flashmonkey.connections.view.TargetActionMediator</symbol>
+	</includes>
+	<metadata>
+		<date>Wed Sep 22 08:27:03 BST 2010</date>
+		<localized-title>
+			<title>Connections Lib</title>
+			<lang>x-default</lang>
+		</localized-title>
+	</metadata>
+	<static-link-runtime-shared-libraries>false</static-link-runtime-shared-libraries>
+	<target-player>10.0.0</target-player>
+	<use-network>true</use-network>
+	<verify-digests>true</verify-digests>
+	<output>c:\projects\connections-lib\target\connections-lib-1.0-SNAPSHOT.swc</output>
+</flex-config>
+
